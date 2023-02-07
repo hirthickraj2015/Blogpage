@@ -1,0 +1,3 @@
+// Blogpage
+
+export function main() {}
