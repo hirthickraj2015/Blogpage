@@ -4,3 +4,6 @@ Created a fully responsive blogsite using ejs
 
 ## Update
 20260210111842
+
+## Update
+20260210111844
